@@ -1,0 +1,5 @@
+//BattPop - resource.rc
+
+#include "resource.h"
+
+IDI_MYICON ICON "icon.ico"
